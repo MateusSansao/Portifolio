@@ -19,12 +19,32 @@
     flex-direction: column;
 }
 
-.hero-title {
-    font-size: 30px;
+.hero-title1 {
+    font-size: 110px;
+    font-family: 'NomeDaFonteAdobe', serif;
+    font-style: italic;
+    font-weight: 300;
+    height: 80px;
+    margin-left: 20px;
+}
+
+.hero-title2 {
+    font-size: 150px;
+    font-family: 'NomeDaFonteAdobe', serif;
+    font-style: italic;
+    font-weight: 300;
+    z-index: 11;
+    margin-left: 20px;
+    height: 180px;
 }
 
 .hero-name {
-    font-size: 30px;
+    font-size: 65px;
+    margin-left: 20px;
+    font-family: 'Playfair Display', serif;
+    font-weight: 200;
+    font-style: italic;
+    height: 30px;
 }
 
 .hero-img {
