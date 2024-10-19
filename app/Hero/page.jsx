@@ -38,7 +38,7 @@ export default function Hero() {
                     </motion.p>
                 </div>
                 <div className="hero-img">
-                    <Image src="/Mateus.png" width={200} height={200}/>
+                    <Image src="/mateusPhoto.png" width={200} height={200}/>
                 </div>
             </div>
         </div>
